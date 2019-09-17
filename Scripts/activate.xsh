@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"D:\python\FinancePyEnv"
+$VIRTUAL_ENV = r"C:\wamp64\www\FinancePyEnv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

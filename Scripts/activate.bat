@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=D:\python\FinancePyEnv"
+set "VIRTUAL_ENV=C:\wamp64\www\FinancePyEnv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
