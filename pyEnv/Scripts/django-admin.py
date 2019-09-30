@@ -1,4 +1,4 @@
-#!c:\wamp64\www\financepyenv\scripts\python.exe
+#!c:\wamp64\www\pyenv\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
